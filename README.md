@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Everything 
 - 🤔 I’m looking for help with ... Portfolio Website 
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Amit Tailor](https://www.linkedin.com/in/theamittailor/)
+- 📫 How to reach me: ... [linkedIn](https://www.linkedin.com/in/theamittailor/) and the_amit@live.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I like travelling 
 
