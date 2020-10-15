@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Website
+- 🔭 I’m currently working on ... Spotify Clone Website
 - 🌱 I’m currently learning ... React.js
 - 👯 I’m looking to collaborate on ... Everything 
 - 🤔 I’m looking for help with ... Work !!! 
