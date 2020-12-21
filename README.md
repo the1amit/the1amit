@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Spotify Clone Website
-- 🌱 I’m currently learning ... React.js
+- 🔭 I’m currently working on ... Weather app
+- 🌱 I’m currently learning ... ReactJS, Redux, NoSQL and Express
 - 👯 I’m looking to collaborate on ... Everything 
 - 🤔 I’m looking for help with ... Work !!! 
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [linkedIn](https://www.linkedin.com/in/theamittailor/) and the_amit@live.com
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/theamittailor/) and the_amit@live.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I like travelling 
 
