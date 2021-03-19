@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Weather app
+- 🔭 I’m currently looking for... Work !!!
 - 🌱 I’m currently learning ... ReactJS, Redux, NoSQL and Express
 - 👯 I’m looking to collaborate on ... Everything 
 - 🤔 I’m looking for help with ... Work !!! 
