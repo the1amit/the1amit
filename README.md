@@ -5,11 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as... DevOps Engineer
-- 🌱 I’m currently learning ... AZ 104
-- 👯 I’m looking to collaborate on... Creative Projects
-- 💬 Ask me about ... Tech, Travel 
-- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/theamittailor/) | [Mail](the_amit@live.com)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I like travelling 
-
+- 🔭 I’m currently working as DevOps Engineer
+- 🌱 I’m currently learning about IT
+- 👯 I’m looking to collaborate on opensource projects
+- 💬 Ask me about tech, travel and life
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/theamittailor/) | [Mail](the_amit@live.com)
+- ⚡ Fun fact: AI will not take over humans
